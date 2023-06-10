@@ -1,0 +1,8 @@
+psycopg2==2.9.6
+pandas==2.0.2
+bs4==0.0.1
+requests==2.31.0
+lxml==4.9.2
+html5lib==1.1
+beautifulsoup4==4.12.2
+sqlalchemy==2.0.15
