@@ -6,3 +6,4 @@ lxml==4.9.2
 html5lib==1.1
 beautifulsoup4==4.12.2
 sqlalchemy==2.0.15
+load-dotenv==0.1.0
